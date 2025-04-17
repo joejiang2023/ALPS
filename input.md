@@ -86,7 +86,7 @@ Threshold for analytical principal-value integration, $t_{\mathrm{lim}}$.
 Maximum number of fitting iterations.
 
 **`lambda_initial_fit`**  
-Inital Levenberg-Marquardt damping parameter.
+Initial Levenberg-Marquardt damping parameter.
 
 **`lambdafac_fit`**  
 Adjustment factor for Levenberg-Marquardt damping parameter.
